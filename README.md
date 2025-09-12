@@ -40,6 +40,8 @@ Github Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=catnuton&theme=radical)
 
+![Most Contributed Projects](https://github-contributor-stats.vercel.app/api?username=catnuton&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 🐱 Fun Facts
 ---
 - If you write ```import antigravity``` in Python, it opens a fun XKCD comic about Python
