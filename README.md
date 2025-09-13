@@ -51,5 +51,5 @@ Github Stats
 📫 Contact
 ---
 [![Static Badge](https://img.shields.io/badge/SUBSCRIBE-red?style=for-the-badge&logo=instagram&logoColor=pink&label=INSTAGRAM&labelColor=white)](https://www.instagram.com/kyryl_koblyk/)
-[![Static Badge](https://img.shields.io/badge/VIEW_PROJECTS-gray?style=for-the-badge&logo=github&logoColor=black&label=GITHUB&labelColor=white)](https://github.com/CatNuton)
+[![Static Badge](https://img.shields.io/badge/VIEW_PROJECTS-gray?style=for-the-badge&logo=github&logoColor=black&label=GITHUB&labelColor=white)](https://github.com/CatNuton?tab=repositories)
 ![Static Badge](https://img.shields.io/badge/nutoncat-5865F2?style=for-the-badge&logo=discord&logoColor=%235865F2&label=DISCORD&labelColor=white)
