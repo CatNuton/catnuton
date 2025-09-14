@@ -34,7 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/UNITY-gray?style=for-the-badge&logo=unity&logoColor=gray&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine&logoColor=black&labelColor=white)
 
-Github Stats
+📊Github Stats
 ---
 ![GitHub followers](https://img.shields.io/github/followers/CatNuton?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
 
