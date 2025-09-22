@@ -36,7 +36,7 @@
 
 📊Github Stats
 ---
-![GitHub followers](https://img.shields.io/github/followers/CatNuton?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
+![GitHub followers](https://img.shields.io/github/followers/catnuton?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=cb3877)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catnuton&show_icons=true&theme=radical)
 
