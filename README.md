@@ -42,7 +42,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catnuton&layout=compact&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catnuton&limit=5&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=catnuton&theme=radical)](https://git.io/streak-stats)
 
 ![Most Contributed Projects](https://github-contributor-stats.vercel.app/api?username=catnuton&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
