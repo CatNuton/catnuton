@@ -42,9 +42,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catnuton&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=catnuton&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catnuton&limit=5&theme=radical)]
 
-![Most Contributed Projects](https://github-contributor-stats.vercel.app/api?username=catnuton&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Most Contributed Projects](https://github-contributor-stats.vercel.app/api?username=catnuton&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 🐱 Fun Facts
 ---
