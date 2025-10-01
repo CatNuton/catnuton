@@ -38,6 +38,8 @@
 ---
 ![GitHub followers](https://img.shields.io/github/followers/catnuton?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=cb3877)
 
+![Visitors](https://s01.flagcounter.com/count2/kGoo/bg_1A1B27/txt_FFFFFF/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catnuton&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catnuton&layout=compact&theme=radical)
